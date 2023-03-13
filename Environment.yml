@@ -1,4 +1,4 @@
-name: CondaEnvironmentTemplate
+name: Python-3.11
 channels:
   - defaults
 dependencies:
